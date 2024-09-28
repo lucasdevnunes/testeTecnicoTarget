@@ -1,7 +1,6 @@
 import testeTecnicoTarget.exercicio1.Ficonacci;
-import testeTecnicoTrget.exercicio2.Identificador;
+import testeTecnicoTarget.exercicio2.Identificador;
 
-import java.util.List;
 import java.util.Scanner;
 
 public class Main {
@@ -19,7 +18,5 @@ public class Main {
         String palavra = leitor.nextLine();
         Identificador identificador = new Identificador(palavra);
         identificador.identificadorDeAs();
-
-
     }
 }

@@ -1,4 +1,4 @@
-package testeTecnicoTrget.exercicio2;
+package testeTecnicoTarget.exercicio2;
 
 public class Identificador {
     private String palavra;
